@@ -37,11 +37,11 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible,  I also enjoy using my passion for 
-               <b className="purple">Content Creation</b> and
-              <i>
-                <b className="purple">
-                  {" "}
+              Whenever possible, I also enjoy using my passion for{" "}
+<b className="purple"> Content Creation</b> and
+<i>
+  <b className="purple">
+
                   Photography, and Video editing to bring ideas to life.
                 </b>
               </i>
